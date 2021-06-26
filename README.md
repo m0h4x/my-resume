@@ -7,3 +7,5 @@
 
 # my-resume
 html css marathon
+
+https://m0h4x.github.io/my-resume/
