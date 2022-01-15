@@ -121,6 +121,9 @@ body {
 }
 
 /* sidebar section */
+.aligncenter {
+  text-align: center;
+}
 .sidebar-section {
   background-color: #142939;
   width: 370px;
