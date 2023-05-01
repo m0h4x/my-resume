@@ -18,6 +18,34 @@ https://www.youtube.com/watch?v=WUfNYr1oUFg&list=PLiy9Kkjs2WHx2Lt4XMq6Y047mAz0fO
 Otherwise i also happen to have a privilege to be responsible for automating and updating like two thirds of like a hundred software packages at our campus. But after a ten year project of finishing the half done automatisation of this software packages i ended up put away in a cubicle to only do tech support. There is nothing else to this life right? right?!
 http://home.scarlet.be/spb30297/iceware.png
 
+After 20 years of using Linux 
+and after 10 years of studying programming 
+this is my conclusion and this is my verdict.
+In the sixties Lisp gave us garbage collection.
+In the seventies eighties Smalltalk gave us type inference.
+And in the nineties perl gave us scripting. 
+(for the lack of a better term).
+Now what concerns the linux distributions:
+Debian is the most ancient software collection and installer.
+OpenSuse is a somewhat more sane distribution
+with somewhat more modern software and installer.
+(Like say a better centos alternative).
+Both of them have a stable and rolling version.
+Thumbleweed being a more modern/sane one.
+Debian we can say is antiquated like solaris.
+But what is very modern and easier
+to install than debian is arch.
+A thumbleweedish version of it is Manjaro.
+But this is all just history.
+Accidentally or not these distros
+support kde which i wouldnt use.
+If we would look at something more practical,
+(which also happens to support Gnome)
+Your best option probably would be Mint or Zorin.
+Or even better the Ultimate linux distribution Fedora.
+There is also something to say about JS, RB and Py.
+Will add something on this later.
+
 # my-resume
 html css marathon
 
