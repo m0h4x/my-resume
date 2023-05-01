@@ -46,6 +46,8 @@ Or even better the Ultimate linux distribution Fedora.
 There is also something to say about JS, RB and Py.
 Will add something on this later.
 
+http://home.scarlet.be/spb30297/ekibastos.png
+
 # my-resume
 html css marathon
 
