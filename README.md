@@ -23,8 +23,7 @@ and after 10 years of studying programming
 this is my conclusion and this is my verdict.
 In the sixties Lisp gave us garbage collection.
 In the seventies eighties Smalltalk gave us type inference.
-And in the nineties perl gave us scripting. 
-(for the lack of a better term).
+And then Erlang gave us the actor model.
 Now what concerns the linux distributions:
 Debian is the most ancient software collection and installer.
 OpenSuse is a somewhat more sane distribution
