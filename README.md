@@ -1,7 +1,9 @@
 
 👋 Hi, I’m this guy who reads some programming books in Russian (mostly) and puts them on the Youtube: https://www.youtube.com/@blu3h4t/featured
 
-👀 I have been to this rabbit hole of Gnu and Linux for a decade or two already. So i'm quite familiar with the subjects/topics discussed here: 
+👀 I have been to this rabbit hole of Gnu and Linux for a decade or two already. 
+https://www.youtube.com/watch?v=dPh0lhL_Nx8&t=216s&pp=ygULRm9zZGVtIDJrMTE%3D
+So i'm quite familiar with the subjects/topics discussed here: 
 Linux is a MAJOR Rabbit Hole - https://youtu.be/uGS6BdmUU1c
 To the extent that i did compile the kernel some day and installed arch linux some other. Nothing major.
 I have also ran Proxmox VM's (https://www.proxmox.com/en/) at HIVT (https://nl.wikipedia.org/wiki/Hoger_Instituut_voor_Vertalers_en_Tolken)
