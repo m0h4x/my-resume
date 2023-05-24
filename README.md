@@ -8,7 +8,7 @@ I have also ran Proxmox VM's (https://www.proxmox.com/en/) at HIVT (https://nl.w
 with FOG project: https://fogproject.org/ and OCS Inventory: https://ocsinventory-ng.org/?lang=en
 
 🌱 After being to the GNU/Linux rabit hole for a few years i tought why not learn some scripting, oh boy. That proved to also be quite some rabit hole.
-So i boutght like a hundred programming books in a few years and not even half read half of them. But i ended up at this JS/React/Frontend/FullStack Bootcamp for a year - https://goit.global/us/courses/fullstack/. So became somewhat familiar with this fascinating topic: 
+So i boutght like a hundred programming books in a few years and only half read half of them. But i ended up at this JS/React/Frontend/FullStack Bootcamp for a year - https://goit.global/us/courses/fullstack/. So became somewhat familiar with this fascinating topic: 
 React.js: The Documentary - https://youtu.be/8pDqJVdNa44
 
 💞️ As for my other endeavours. Some day after visiting revision demoparty: https://youtu.be/B3EyfSP1VSc
