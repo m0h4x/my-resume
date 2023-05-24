@@ -28,7 +28,7 @@ Now what concerns the linux distributions:
 Debian is the most ancient software collection and installer.
 OpenSuse is a somewhat more sane distribution
 with somewhat more modern software and installer.
-(Like say a better centos alternative).
+(Like say a better centos alternative(for the desktop)).
 Both of them have a stable and rolling version.
 Thumbleweed being a more modern/sane one.
 Debian we can say is antiquated like solaris.
