@@ -47,6 +47,10 @@ Or even better the Ultimate linux distribution Fedora.
 There is also something to say about JS, RB and Py.
 Will add something on this later.
 
+Another interesting idea or some cool trivia which i tought about today while reeding about debian release is a comparison of relation debian and ubuntu has to the relation opensuse and fedora has.
+One is the upstream of the other. And how debian started its releases parallel to the new perl releases and learning perl book releases.
+And how now suse has yast written in ruby. Fedoras installer is in puthon and ubuntus in flutter.
+
 http://home.scarlet.be/spb30297/ekibastosec.png
 
 # my-resume
