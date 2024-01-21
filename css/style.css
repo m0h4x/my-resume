@@ -146,7 +146,7 @@ body {
   font-weight: bold;
   font-size: 14px;
   line-height: 24px;
-  color: #fff;
+  color: #000;
   margin-right: 8px;
 }
 .contacts-section-link {
@@ -168,5 +168,5 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #fff;
+  color: #000;
 }
